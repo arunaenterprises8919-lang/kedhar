@@ -1,0 +1,5 @@
+{
+  "name": "India Barcode Pro",
+  "description": "Scan barcodes to get instant product information and price comparisons in India using AI.",
+  "requestFramePermissions": ["camera"]
+}
